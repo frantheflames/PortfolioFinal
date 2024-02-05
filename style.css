@@ -37,8 +37,10 @@ ul, ol {
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%; /* Adjust the percentage to your preference */
     height: auto;
+    display: block;
+    margin: auto; /* Center the image horizontally */
 }
 
 .content {
