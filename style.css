@@ -34,13 +34,18 @@ p {
 
 ul, ol {
     margin: 10px 0;
+    text-align: center; 
+}
+
+li {
+    display: inline; 
 }
 
 img {
-    max-width: 50%; /* Adjust the percentage to your preference */
+    max-width: 50%; 
     height: auto;
     display: block;
-    margin: auto; /* Center the image horizontally */
+    margin: auto; 
 }
 
 .content {
