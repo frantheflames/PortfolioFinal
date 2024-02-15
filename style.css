@@ -36,11 +36,11 @@ p {
 
 ul, ol {
         margin: 10px 0;
-        text-align: left;
+        text-align: center;
     }
 
 img {
-        max-width: 20%;
+        max-width: 100px;
         height: auto;
     }
 
@@ -64,4 +64,7 @@ footer {
         text-align: center;
         padding: 10px;
     }
+section {
+    text-align: center;
+}
 
